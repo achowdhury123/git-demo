@@ -2,6 +2,4 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
-
-New text
+## Website Contents
